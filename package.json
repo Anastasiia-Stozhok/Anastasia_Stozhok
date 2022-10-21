@@ -1,0 +1,19 @@
+{
+  "name": "js-tasks",
+  "version": "1.0.0",
+  "description": "First task of course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anastasiia-Stozhok/Anastasia_Stozhok.git"
+  },
+  "author": "Anastasia Stozhok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anastasiia-Stozhok/Anastasia_Stozhok/issues"
+  },
+  "homepage": "https://github.com/Anastasiia-Stozhok/Anastasia_Stozhok#readme"
+}
