@@ -10,7 +10,4 @@ function numberToIPv4(number) {
   return partOfIP.join(".");
 }
 
-console.log(`1. 2149583361 ==> ${numberToIPv4(2149583361)}`);
-console.log(`2. 306777600 ==> ${numberToIPv4(306777600)}`);
-console.log(`3. 32 ==> ${numberToIPv4(32)}`);
-console.log(`4. 0 ==> ${numberToIPv4(0)}`);
+module.exports = numberToIPv4;

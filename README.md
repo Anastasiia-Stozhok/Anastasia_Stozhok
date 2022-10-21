@@ -1,7 +1,5 @@
 # Anastasia_Stozhok
 
-Steps to run a code:
+To run a code:
 
-1. select the file
-
-2. use terminal to see results of function: node name-of-file.js
+Enter "npm start" and you will see all logs of examples of usinf functions.

@@ -29,8 +29,4 @@ function meeting(friendsList) {
   return result;
 }
 
-console.log(
-  meeting(
-    "Fred:Corwill;Wilfred:Corwill;Barney:Tornbull;Betty:Tornbull;Bjon:Tornbull;Raphael:Corwill;Alfred:Corwill"
-  )
-);
+module.exports = meeting;

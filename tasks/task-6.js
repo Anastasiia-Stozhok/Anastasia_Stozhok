@@ -32,10 +32,4 @@ function nextBigger(givenNumber) {
   return result;
 }
 
-console.log(`1. 12 ==> ${nextBigger(12)}`);
-console.log(`2. 513 ==> ${nextBigger(513)}`);
-console.log(`3. 2017 ==> ${nextBigger(2017)}`);
-console.log(`3. 7456972 ==> ${nextBigger(7456972)}`);
-console.log(`5. 9 ==> ${nextBigger(9)}`);
-console.log(`6. 111 ==> ${nextBigger(111)}`);
-console.log(`7. 531 ==> ${nextBigger(531)}`);
+module.exports = nextBigger;
