@@ -1,7 +1,8 @@
 # To run tests:
 
 1)npm install <br />
-2)npm test
+2)add valid token in spec/test-constants.ts(const accessToken) <br />
+3)npm test
 
 # Web-API task:
 
